@@ -16,6 +16,8 @@ gem 'haml'
 gem 'haml-rails', '~> 2.0'
 # Use Formtastic for Forms
 gem 'formtastic', '~> 4.0'
+# Use Devise for authentication
+gem 'devise'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker', '~> 5.0'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
